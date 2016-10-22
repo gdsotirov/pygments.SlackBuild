@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # Slackware build script for Pygments
-# Copyright (C) 2013-2015 Georgi D. Sotirov <gdsotirov@dir.bg>
+# Copyright (C) 2013-2016 Georgi D. Sotirov <gdsotirov@dir.bg>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -19,15 +19,15 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: pygments.SlackBuild,v 1.2 2016/10/22 11:08:46 gsotirov Exp $
+# $Id: pygments.SlackBuild,v 1.3 2016/10/22 11:26:44 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=Pygments
 PNAME=`echo $NAME | tr "[:upper:]" "[:lower:]"`
-VERSION=2.0.2
-ARCH=${ARCH:-i486}
+VERSION=2.1.3
+ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
 TMP=${TMP:-/tmp}
