@@ -4,7 +4,7 @@ pygments: Pygments is a generic syntax highlighter for general use in all
 pygments: kinds of software such as forum systems, wikis or other
 pygments: applications that need to prettify source code. Feature highlights:
 pygments: 
-pygments:   * a wide range of common languages and markup formats is supportted;
+pygments:   * a wide range of common languages and markup formats is supported;
 pygments:   * special attention is paid to details, increasing quality by a
 pygments:     fair amount;
 pygments:   * support for new languages and formats are added easily;
@@ -12,4 +12,4 @@ pygments:   * a number of output formats, presently HTML, LaTeX, RTF, SVG, all
 pygments:     image formats that PIL supports and ANSI sequences;
 pygments:   * it is usable as a command-line tool and as a library;
 pygments:
-pygments: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+pygments: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
